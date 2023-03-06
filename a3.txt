@@ -1,0 +1,10 @@
+A) bit_B) word_C) byte_D) record_C
+A) 42042_B) 101010_C) 23232_D) 01234_C
+A) Cobol_B) Fortran_C) c++_D) Basic_B
+A) Scanner_B) Mouse_C) Printer_D) Keyboard_C
+A) Movie file_B) Text file_C) Image file_D) Audio file_A
+A) Magnetic disk_B) Hard disk_C) Output device_D) Optical disk_D
+A) Mark zuckerburg_B) Tesla_C) Steve jobs_D) Bill gates_A
+A) Dreamweaver_B) Netscape navigator_C) Maya_D) Flash_B
+A) Backup file_B) Text file_C) Image file_D) Audio file_A
+A) Flash drive_B) Hard disk_C) Floppy disk_D) CDROM_D
